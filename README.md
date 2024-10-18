@@ -18,8 +18,6 @@ Também recomendo a instalação prévia do Node.js
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem markup padrão para desenvolvimento web
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Liguagem markup padrão para estilização de um documento HTML
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) -  Linguagem de programação que permite implementar funcionalidades mais complexas em páginas web
